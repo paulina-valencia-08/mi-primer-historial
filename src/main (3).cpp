@@ -56,7 +56,7 @@ void operaciondivision(){
 }
 
 void finalizar(){
-    printf("hasta luego");
+    printf("gracias por usar el programa, hasta luego");
 }
 
 
