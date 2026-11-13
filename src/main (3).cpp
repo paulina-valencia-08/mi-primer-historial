@@ -55,6 +55,10 @@ void operaciondivision(){
     printf("la division de los numeros es de: %f\n", division);
 }
 
+void finalizar(){
+    printf("hasta luego");
+}
+
 
 int main()
 {
@@ -89,7 +93,7 @@ int main()
         break;
         
         case 5:
-        printf("hasta luego");
+        finalizar();
         break;
         
         default:
